@@ -1,16 +1,25 @@
-# hello_word_app
+## Proyecto: Aplicación Contador en Flutter
 
-A new Flutter project.
+Este proyecto es una introducción a Flutter donde se implementa una aplicación de contador con varias funcionalidades. Utiliza widgets fundamentales como StatelessWidget, StatefulWidget, y Scaffold, junto con otros elementos como botones flotantes personalizados y gestión de estado.
 
-## Getting Started
+#### Características principales
+- Incrementar, decrementar y reiniciar el contador.
+- Diseño basado en Material Design 3
+- Implementación de botones flotantes personalizados.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Instalación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clona este repositorio:
+`
+git clone https://github.com/joanvasquez21/Introduction-to-flutter.git 
+`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Instala las dependencias:
+`
+flutter pub get
+`
+3. Ejecuta la aplicación:
+` flutter run `
+
+
